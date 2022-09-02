@@ -3,6 +3,7 @@ RENCANA KONTEN MOONLIGHT
 - Kotlin
   * basics
   * oop
-- fundametal data stucture
+  * jetpack compose
 - vlog
 - review
+- membuat grup telegram
