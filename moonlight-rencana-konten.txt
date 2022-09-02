@@ -4,6 +4,7 @@ RENCANA KONTEN MOONLIGHT
   * basics
   * oop
   * jetpack compose
+- fundametal data stucture
 - vlog
 - review
 - membuat grup telegram
