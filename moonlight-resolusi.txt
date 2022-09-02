@@ -3,4 +3,4 @@ Moon Light RESOLUSI
 - membuat vidio kotlin dasar
 - mengembangkan fitur aplikasi hitung waktu sholat
 - membuat akun instagram khusus moon light
-- membuat vlog
+- mengunggah feed ig moonlght
