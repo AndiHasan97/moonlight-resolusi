@@ -2,3 +2,5 @@ Moon Light RESOLUSI
 - membuat aplikasi hitung waktu sholat
 - membuat vidio tutorial youtube
 - membuat vidio kotlin dasar
+- mengembangkan fitur aplikasi hitung waktu sholat
+- membuat akun instagram khusus moon light
