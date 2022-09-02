@@ -3,5 +3,6 @@ RENCANA KONTEN MOONLIGHT
 - Kotlin
   * basics
   * oop
+- fundametal data stucture
 - vlog
 - review
